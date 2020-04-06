@@ -30,7 +30,7 @@
         "mysql2": "^1.6.5",
         "passport": "^0.4.0",
         "passport-google-oauth20": "^1.0.0",
-        "sequelize": "^4.41.2",
+        "sequelize": "^5.15.1",
         "socket.io": "^2.2.0"
     },
     "devDependencies": {
